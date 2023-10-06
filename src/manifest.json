@@ -1,0 +1,21 @@
+{
+  "name": "edgar-de-gas-chrome-extension",
+  "description": "",
+  "version": "2023.1006.234837",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "icons": {
+    "32": "jikon_0032.jpg",
+    "128": "jikon_0128.jpg"
+  },
+  "action": {
+    "default_popup": "default_popup.html",
+    "default_icon": {
+      "32": "jikon_0032.jpg",
+      "128": "jikon_0128.jpg"
+    }
+  },
+  "manifest_version": 3
+}
